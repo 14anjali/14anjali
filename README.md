@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @14anjali
 - 👀 I’m interested in web Development
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Next.js
 - 📫 How to reach me :1424anjali@gmail.com
 
 
