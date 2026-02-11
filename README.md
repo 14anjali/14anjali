@@ -1,97 +1,65 @@
-# 👋 Hi, I’m Anjali
+# 💫 About Me
 
-🚀 **Frontend Developer | React • JavaScript • Tailwind CSS**
+🔭 Currently working on: Strengthening problem-solving skills with JavaScript and React  
+👯 Looking to collaborate on: Real-world frontend or full-stack projects  
+🤝 Looking for: Internship or entry-level opportunities to gain industry experience  
+🌱 Currently learning: TypeScript for scalable and type-safe applications  
+💬 Ask me about: My frontend development journey, React projects, and learning process  
 
-I’m a self-motivated **Frontend Developer** with a strong foundation in modern web technologies and a passion for building **responsive, user-friendly, and performance-optimized web applications**. I enjoy turning ideas into clean UI experiences while following best practices and scalable architecture.
 
----
+## 🌐 Socials:
 
-## 💡 What I Do
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-37571b2b8/)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:1424anjali@gmail.com)
 
-- Build **responsive and accessible web interfaces**
-- Create **reusable React components**
-- Manage state efficiently using **Hooks & Context API**
-- Optimize UI performance and reduce re-renders
-- Implement **localStorage-based persistence**
-- Convert designs into clean, maintainable code
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
 
----
+## 🚀 Projects
 
-## 🛠️ Tech Stack
+### 🛒 Web E-commerce App
+A responsive frontend e-commerce application simulating an online store experience.
 
-### Languages
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Java
+**🔗 Live Demo:** https://02mystore.netlify.app/  
+**📂 GitHub Repo:** https://github.com/14anjali/web-E-commerce
 
-### Frontend
-- React
-- Tailwind CSS
-- Responsive Web Design
+**Features:**
+- Responsive product listing UI
+- Add to cart functionality
+- Clean and user-friendly shopping flow
+- Designed with scalability in mind
 
-### React & State Management
-- useState, useEffect
-- useMemo, useCallback
-- React.memo
-- useRef
-- Context API
-
-### Tools
-- Git & GitHub
-- VS Code
-- Chrome DevTools
+**Tech Stack:**  
+React, JavaScript, CSS, Git, Netlify
 
 ---
 
-## 📌 Featured Projects
+### ✅ Todo Application
+A fully functional Todo app with persistence and optimized UI.
 
-### 🛒 E-Commerce Application  
-**Tech:** React, Tailwind CSS, Context API, localStorage  
+**🔗 Live Demo:** https://01mytodo.netlify.app/  
+**📂 GitHub Repo:** https://github.com/14anjali/Todo-app
 
-- Built a modern e-commerce frontend with **product listing and detailed product views**
-- Implemented **Add to Cart & Wishlist functionality**
-- Global state management using **Context API**
-- Persistent cart and wishlist using **localStorage**
-- Dynamic cart count synced across components
-- Fully responsive layout for mobile and desktop
+**Features:**
+- Add, edit, delete, and mark tasks as complete
+- Theme toggle (light/dark)
+- Task filtering
+- Persistent storage using `localStorage`
+- Performance optimizations using `React.memo`, `useCallback`, and `useMemo`
 
----
+**Tech Stack:**  
+React, JavaScript, Tailwind CSS, localStorage, Git, Netlify
 
-### 📝 Todo Application  
-**Tech:** React, Tailwind CSS, localStorage  
+# 📊 GitHub Stats:
 
-- Add, edit, delete, filter, and track tasks
-- Theme toggle with persistent state
-- Data stored using **localStorage**
-- Optimized rendering using `React.memo`, `useMemo`, and `useCallback`
-- Reduced unnecessary re-renders by ~30%
-- Input validation for better UX
+![](https://github-readme-stats.vercel.app/api?username=anjali14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=anjali14&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali14&theme=dark&hide_border=false&layout=compac)
 
----
 
-## 🎯 Currently Focused On
-
-- Strengthening **JavaScript fundamentals**
-- Improving **problem-solving skills**
-- Building **real-world frontend projects**
-- Preparing for **Frontend Developer roles & internships**
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=anjali14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🤝 What I’m Looking For
-
-- Frontend Developer Internship / Fresher Role
-- Opportunities to work in a collaborative environment
-- Projects that encourage learning and growth
-
----
-
-## 📫 Let’s Connect
-
-- **LinkedIn:** https://www.linkedin.com/in/anjali-37571b2b8
-- **GitHub:** You’re already here 🙂
-
----
-
-✨ *Learning by building. Improving by practice. Growing by consistency.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
