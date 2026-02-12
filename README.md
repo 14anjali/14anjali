@@ -50,11 +50,17 @@ A fully functional Todo app with persistence and optimized UI.
 **Tech Stack:**  
 React, JavaScript, Tailwind CSS, localStorage, Git, Netlify
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=anjali14&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=anjali14&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anjali14&theme=dark&hide_border=false&layout=compac)
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=14anjali&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=14anjali&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=14anjali&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=14anjali&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
