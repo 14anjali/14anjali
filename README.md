@@ -1,10 +1,11 @@
 # 💫 About Me
 
-🔭 Currently working on: Strengthening problem-solving skills with JavaScript and React  
-👯 Looking to collaborate on: Real-world frontend or full-stack projects  
-🤝 Looking for: Internship or entry-level opportunities to gain industry experience  
-🌱 Currently learning: TypeScript for scalable and type-safe applications  
-💬 Ask me about: My frontend development journey, React projects, and learning process  
+🚀 Passionate MERN Stack Developer focused on building responsive, scalable, and user-centric web applications.
+💻 Skilled in React, JavaScript, TypeScript, Node.js, Express.js, MongoDB, and Tailwind CSS.
+🧠 Continuously improving my problem-solving skills and exploring modern web development best practices.
+🌱 Currently learning advanced backend development, TypeScript, and system design to build production-ready applications.
+🤝 Open to collaborating on open-source, frontend, and full-stack projects that solve real-world problems.
+🎯 Seeking frontend or MERN stack internship opportunities where I can contribute, learn from experienced developers, and grow as a software engineer.
 
 
 ## 🌐 Socials:
